@@ -1,0 +1,6 @@
+com/alibaba/demo/customer/CreditGatewayImpl.class
+com/alibaba/demo/config/DiamondConfig.class
+com/alibaba/demo/customer/CustomerDO.class
+com/alibaba/demo/order/OrderGatewayImpl.class
+com/alibaba/demo/customer/CustomerGatewayImpl.class
+com/alibaba/demo/customer/CustomerMapper.class

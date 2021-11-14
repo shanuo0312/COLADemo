@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-service-domain" />
+        <module name="demo-service-app" />
+        <module name="demo-service-client" />
+        <module name="start" />
+        <module name="demo-service-infrastructure" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-service-app" target="1.8" />
+      <module name="demo-service-client" target="1.8" />
+      <module name="demo-service-domain" target="1.8" />
+      <module name="demo-service-infrastructure" target="1.8" />
+      <module name="demo-service-parent" target="1.8" />
+      <module name="start" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

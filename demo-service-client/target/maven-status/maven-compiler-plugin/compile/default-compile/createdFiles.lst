@@ -1,0 +1,7 @@
+com/alibaba/demo/dto/CustomerAddCmd.class
+com/alibaba/demo/api/CustomerServiceI.class
+com/alibaba/demo/dto/data/CustomerDTO.class
+com/alibaba/demo/dto/CustomerListByNameQry.class
+com/alibaba/demo/dto/event/CustomerCreatedEvent.class
+com/alibaba/demo/dto/data/ErrorCode.class
+com/alibaba/demo/dto/event/DomainEventConstant.class

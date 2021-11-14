@@ -1,0 +1,10 @@
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/CompanyType.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/gateway/CustomerGateway.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/Credit.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/SourceType.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/gateway/CreditGateway.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/order/Order.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/Customer.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/package-info.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/domainservice/CreditChecker.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-domain/src/main/java/com/alibaba/demo/domain/customer/CustomerType.java

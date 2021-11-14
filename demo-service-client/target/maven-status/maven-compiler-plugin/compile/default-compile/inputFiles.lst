@@ -1,0 +1,7 @@
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/dto/event/DomainEventConstant.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/dto/CustomerListByNameQry.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/dto/CustomerAddCmd.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/dto/data/ErrorCode.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/dto/data/CustomerDTO.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/dto/event/CustomerCreatedEvent.java
+/Users/yang/Project/opensource/COLA/COLADemo/demo-service-client/src/main/java/com/alibaba/demo/api/CustomerServiceI.java

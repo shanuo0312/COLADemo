@@ -1,0 +1,4 @@
+com/alibaba/demo/customer/CustomerServiceImpl.class
+com/alibaba/demo/order/OrderServiceImpl.class
+com/alibaba/demo/customer/executor/CustomerAddCmdExe.class
+com/alibaba/demo/customer/executor/query/CustomerListByNameQryExe.class

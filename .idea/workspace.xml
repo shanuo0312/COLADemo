@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce7aeb85-84b4-4bdf-a975-1fcd607374cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo-service-app/demo-service-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-client/demo-service-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-domain/demo-service-domain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-infrastructure/demo-service-infrastructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-service-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/start.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/Software/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$USER_HOME$/Software/apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="20u8Lhgow6bZgZfCN3yEcrfE2YW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="LINKC_FILTER_ACTION" value="all" />
+    <property name="LINKC_GROUP_BY_USER_ACTION" value="ALL" />
+    <property name="LINKC_SEARCH_ACTION" value="" />
+    <property name="LINKC_SERVICE_ENABLE_KEY" value="0" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.demo.Application" />
+      <module name="start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce7aeb85-84b4-4bdf-a975-1fcd607374cb" name="Default Changelist" comment="" />
+      <created>1636883057719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636883057719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom" timestamp="1636885565938">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636885565938" />
+    <state width="1878" height="296" key="GridCell.Tab.0.center" timestamp="1636885565935">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.center/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636885565935" />
+    <state width="1878" height="296" key="GridCell.Tab.0.left" timestamp="1636885565934">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.left/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636885565934" />
+    <state width="1878" height="296" key="GridCell.Tab.0.right" timestamp="1636885565937">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.right/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636885565937" />
+    <state x="162" y="-890" key="SettingsEditor" timestamp="1636884702782">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="162" y="-890" key="SettingsEditor/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636884702782" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1636884405726">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636884405726" />
+    <state x="351" y="-769" width="679" height="486" key="find.popup" timestamp="1636885439491">
+      <screen x="-307" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="351" y="-769" width="679" height="486" key="find.popup/0.0.1440.900/-307.-1080.1920.1080@-307.-1080.1920.1080" timestamp="1636885439491" />
+  </component>
+</project>
